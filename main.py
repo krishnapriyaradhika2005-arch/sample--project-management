@@ -1,3 +1,4 @@
+#Simple Grade Calculator
 def parse_marks(input_str):
     """Convert space-separated marks into a list of numbers"""
     parts = input_str.strip().split()
